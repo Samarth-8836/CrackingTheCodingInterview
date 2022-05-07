@@ -1,3 +1,14 @@
+/*
+* The function takes in a string and returns true if all the characters
+* in the string are unique otherwise it returns false.
+* We can make an array of all possible ASCII codes (128) with initial value of false
+* and then make it true when encountered with that value.
+*
+* We can also do the same with a hashmap if allowed.
+*
+* We can also achieve the same result by first sorting the String and then checking the neighbours
+* */
+
 import java.util.Scanner;
 
 public class CH1_Q1_UniqueString {
