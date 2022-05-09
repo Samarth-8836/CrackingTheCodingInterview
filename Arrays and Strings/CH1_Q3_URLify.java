@@ -5,11 +5,9 @@ public class CH1_Q3_URLify {
         CH1_Q3_URLify instance = new CH1_Q3_URLify();
         Scanner sc = new Scanner(System.in);
         String inp = sc.nextLine();
-        String inp2 = sc.nextLine();
         int trueLength = sc.nextInt();
         sc.nextLine();
         char[] inpArry = inp.toCharArray();
-        System.out.println(inp+inp2);
         System.out.println(instance.replaceSpaces(inpArry, trueLength));
     }
 
