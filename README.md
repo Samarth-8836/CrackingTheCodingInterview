@@ -9,3 +9,6 @@ Day 2 - 09/05/2022
 * URLify
 * Palindrome Permutation
 * One Edit Away
+
+Day 3 - 10/05/2022
+* String Compression
