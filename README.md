@@ -12,3 +12,4 @@ Day 2 - 09/05/2022
 
 Day 3 - 10/05/2022
 * String Compression
+* Matrix Rotation
